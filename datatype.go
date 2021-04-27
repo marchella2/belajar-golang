@@ -13,7 +13,5 @@ func main() {
 
 	// Tipe data boolean
 	fmt.Println(true)
-	fmt.Println(true && false)  // && memiliki arti and
-	fmt.Println(false || false) // || memiliki arti or
-	fmt.Println(!false)         // ! memiliki arti not
+	fmt.Println(false)
 }
