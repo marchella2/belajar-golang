@@ -25,4 +25,15 @@ func main() {
 
 	// fmt.Println(names) // Memanggil semua data array
 	// fmt.Println(names[0]) // Memanggil data array yang dipilih
+
+	// Cara membuat array tanpa cara manual
+	nama := [5]string{
+		"Marchella", 
+		"Putri", 
+		"Sannie",
+		"Halo",
+		"Dunia",
+	}
+	
+	fmt.Println(nama);
 }
