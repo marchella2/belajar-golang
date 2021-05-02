@@ -30,7 +30,7 @@ func main() {
 		},
 	}
 
-	// Cara delete map
+	// Delete map
 	delete(mahasiswa, "1003")
 
 	fmt.Println(mahasiswa)
